@@ -1,0 +1,14 @@
+{
+  "name": "prueba-node",
+  "version": "1.0.0",
+  "description": "probando paquete",
+  "main": "index.js",
+  "scripts": {
+    "test": "start index.js"
+  },
+  "author": "Eze",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}

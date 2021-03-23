@@ -1,0 +1,15 @@
+{
+  "name": "framework-express",
+  "version": "1.0.0",
+  "description": "finalizando curso nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ezequiel",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.1"
+  }
+}

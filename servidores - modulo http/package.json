@@ -1,0 +1,14 @@
+{
+  "name": "123456789",
+  "version": "1.0.0",
+  "description": "modulo http",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ezequiel",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
